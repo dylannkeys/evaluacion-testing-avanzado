@@ -1,0 +1,7 @@
+{
+    "complejidadCiclomatica": 3,
+    "flakyTestsDetectados": 0,
+    "tiempoPromedioMs": 1,
+    "cobertura": 100,
+    "defectosEncontrados": 3
+}
