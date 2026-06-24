@@ -51,4 +51,5 @@ El sistema integra diferentes técnicas avanzadas de testing utilizando JavaScri
 - Node.js
 - Jest
 - ESLint
-- HTML
+- HTML  
+  
